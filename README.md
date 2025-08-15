@@ -2,7 +2,7 @@
 
 iChatBio is a biodiversity chatbot created by [iDigBio](https://www.idigbio.org/) and the [ACIS lab](https://www.acis.ufl.edu/) at the University of Florida. It is designed to help you find and retrieve information about biodiversity, biocollections, and biological species. It can provide answers to questions in the form of text answers, maps, species occurrence records, and links to more information.
 
-Please keep in mind that iChatBio is currently a **prototype**. It can do many specific things well, but making requests that it doesn't yet support can produce unexpected behavior. If you have a GitHub account, you may [create a new issue](https://github.com/acislab/chat.acis.ufl.edu/issues/new) to post questions, suggestions, or other feedback. You can also share your thoughts using the message box at ichatbio.org. The chatbot itself may be confused, but that's okay - the developers will be able to see your message. You can also send an email to admin@acis.ufl.edu.
+Please keep in mind that iChatBio is currently a **prototype** under active development. It can do many specific things well, but making requests that it doesn't yet support can produce unexpected behavior. If you have a GitHub account, you may [create a new issue](https://github.com/acislab/chat.acis.ufl.edu/issues/new) to post questions, suggestions, or other feedback. You can also share your thoughts using the message box at ichatbio.org. The chatbot itself may be confused, but that's okay - the developers will be able to see your message. You can also send an email to admin@acis.ufl.edu.
 
 ## 🤖 Contributing
 
