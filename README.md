@@ -1,4 +1,4 @@
-# ![](https://ichatbio.org/leaf.svg) iChatBio: [ichatbio.org](ichatbio.org)
+# ![](https://ichatbio.org/leaf.svg) iChatBio: [ichatbio.org](https://ichatbio.org)
 
 iChatBio is a biodiversity chatbot created by [iDigBio](https://www.idigbio.org/) and the [ACIS lab](https://www.acis.ufl.edu/) at the University of Florida. It is designed to help you find and retrieve information about biodiversity, biocollections, and biological species. It can provide answers to questions in the form of text answers, maps, species occurrence records, and links to more information.
 
